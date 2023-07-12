@@ -1,0 +1,24 @@
+  body {
+            font-family: Arial, sans-serif;
+            
+        }
+
+        .container {
+           
+
+margin-top: 50px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 5px 5px  40px gray ;
+           
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+     
+        
+        #result {
+            margin: 20px;
+        }
